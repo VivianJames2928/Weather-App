@@ -1,23 +1,3 @@
-Find files matching `*`
-
-Read 
-Completed with input: {
-  "path": "C:\\Users\\Vivian James\\Desktop\\GDP_projects\\weatherApp\\index.html"
-}
-
-Read 
-Completed with input: {
-  "path": "C:\\Users\\Vivian James\\Desktop\\GDP_projects\\weatherApp\\script.js"
-}
-
-Read 
-Completed with input: {
-  "path": "C:\\Users\\Vivian James\\Desktop\\GDP_projects\\weatherApp\\README.md"
-}
-
-A `README.md` already exists, but it’s empty. I can’t edit files in this read-only session, but you can paste this into it:
-
-```markdown
 # SkyCast Weather App
 
 A simple weather app for checking current conditions and the five-day forecast for a city.
@@ -41,4 +21,3 @@ Weather and location data are provided by [Open-Meteo](https://open-meteo.com/) 
 ## Built with
 
 HTML, CSS, and vanilla JavaScript
-```
